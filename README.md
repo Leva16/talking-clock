@@ -9,4 +9,4 @@ pip install apscheduler.schedulers.blocking
 
 Run:
 
-python talking_hours.py
+python talking-clock.py
